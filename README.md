@@ -39,6 +39,7 @@
             <p align="center">04.vcard-personal-portfolio-master</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/04.jpg"/>
         </a>
+    </td>
     </tr>
     
 </table>
