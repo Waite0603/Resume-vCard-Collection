@@ -13,7 +13,7 @@
 <table align="center">
     <!-- 第一行 -->
     <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
         <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/01/">
             <p align="center">01</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/01.jpg"/>
@@ -28,7 +28,7 @@
     </tr>
     <!-- 第二行 -->
     <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
         <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/03/">
             <p align="center">03</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/03.jpg"/>
@@ -41,7 +41,6 @@
         </a>
     </td>
     </tr>
-    
 </table>
 
 > 代码来源: 
