@@ -1,5 +1,4 @@
 <div align="center">
-    <img  width=180 src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/logo.png"/>
     <h1>Resume Vcard Collection<br>个人电子简历收集</h1> 
 </div>
 
@@ -27,4 +26,17 @@
         </a>
     </td>
     </tr>
+    <!-- 第二行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/03/">
+            <p align="center">03</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/03.jpg"/>
+        </a>
+    </td>
+    </tr>
+    
 </table>
+
+> 代码来源: 
+> - 03: By Taurus Code, Forked from https://www.youtube.com/watch?v=PWvasbJEuQI

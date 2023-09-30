@@ -1,0 +1,165 @@
+/* Header
+--------------------------------------------------
+
+Natasha.
+
+Home
+About
+Skills
+Services
+Portfolio
+Blog
+Contact
+
+/* Home
+--------------------------------------------------
+
+I Am <span class="home__name">Natasha</span><br>
+UI/UX Designer<br>
+& Developer
+
+Laculis eget elementum felis pellentesque tellus tellus tincidunt
+tortor natoque. Cras amet ornare egestas.
+
+Hire Me
+
+Follow Me: Facebook - Twitter - Dribbble 
+
+
+/* About
+--------------------------------------------------
+
+About Me
+I Design and Develop Experiences that
+make people's live simple.
+
+Viverra nisl nibh dolor nam venenatis turpis ultrices. Vulputate facilisis urna pulvinar fringilla consequat molestie vulputate lacus. 
+Pretium leo et nec fusce. Cursus volutpat sed.
+
+Download CV
+
+/* Skills
+--------------------------------------------------
+
+My Skills
+Some of My Working Tools
+
+
+UI/UX Design
+- Figma
+- Adobe XD
+- Illustrator
+- Photoshop
+- Sketch
+- InVision
+
+Web Development
+- HTML
+- CSS
+- JavaScript
+- Node.Js 
+- React 
+- Vue.js
+
+/* Counter
+--------------------------------------------------
+
+8
+Years Experience
+
+100 
+Projects Completed
+
+350 
+Cups Of Coffee
+
+225 
+Happy Clients
+
+
+/* Services
+--------------------------------------------------
+
+My Services
+What I Provide To My Clients
+
+Sit elementum fringilla ipsum accumsan sagittis ullamcorper dolor. Nunc tempor ut amet enim dui. Congue viverra tortor integer fames amet odio cursus.
+
+Rhoncus lacinia turpis sagittis sed ipsum hendrerit nunc non. Leo massa a est ullamcorper at vulputate. Sit elementum fringilla ipsum accumsan sagittis ullamcorper dolor. Nunc tempor ut amet enim dui. Congue viverra tortor integer fames amet odio cursus.
+
+Let's Talk
+
+- Frontend Development
+- UI/UX Design 
+- Graphic Design 
+
+Nunc nunc facilisis eu non enim adipiscing. Erat nunc dignissim condimentum quis.
+
+
+/* My Portfolio
+--------------------------------------------------
+
+My Portfolio 
+Featured Projects
+
+- Website Design 
+- Mobile App UI/UX Design 
+- App Re-design
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+facilis repellendus...
+
+
+/* Testimonials 
+--------------------------------------------------
+
+Shawn Wallace
+Photographer 
+
+Ashley Robie
+Product Manager
+
+Lee Elliot 
+Software Engineer 
+
+In ultricies at purus egestas at donec amet gravida nunc. Mauris pellentesque ipsum proin placerat aliquam libero arcu.
+
+
+/* Blog
+--------------------------------------------------
+
+My Blog
+Latest Posts & News
+
+UI/UX Design 
+10 UI/UX Design trends that made for 2023
+
+UI/UX Design 
+The 5 most used prototyping tools for UI/UX Designers in 2023
+
+Web Development 
+React vs Vue: Which is Better and Why?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
+nihil quam velit ipsam possimus.
+
+Read More
+
+
+/* Contact
+--------------------------------------------------
+
+Let's Talk 
+Have a Project Idea? Feel Free to Contact
+
+Call: (+987) 954 578 420
+Email: info@natasha.com
+Location: 23 Avenue California, USA
+
+/* Footer
+--------------------------------------------------
+
+Natasha Smith 
+Home - About - Skills - Services - Portfolio - Blog - Contact
+
+Copyright 2023 Taurus Code. All Rights Reserved
