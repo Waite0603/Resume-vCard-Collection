@@ -1,0 +1,387 @@
+/* ------------------------------------------------
+ Author: ArtStyles (Art)
+ 最新最全最好的Bootstrap模板：http://www.bootstrapmb.com
+ Template Name: vCard
+ version: 1.0.0
+------------------------------------------------ */
+/* ------------------------------------------------
+
+ - General Styles
+   - Input Text
+   - Checkbox
+   - Select
+   - Dropdown
+   
+ - Typography
+ - Preloader
+ 
+ - Shared
+   - Box
+   - Avatars
+   - Social
+   - Badges
+   - Tooltips
+   
+ - Sidebar
+   - Contact list
+   
+ - Cases
+
+ - Testimonials
+   - Carousel pagination
+   
+ - Clients
+ - Timeline
+ - Progress
+ 
+ - Portfolio
+   - Filter
+    
+ - News
+ 
+ - Single post
+   - Comments
+   - Comment form
+   - Emoji
+   - niceScroll
+   - Social auth
+
+ - Other
+   - Bact to top
+   - Medium Zoom
+  
+------------------------------------------------ */
+/* -----------------------------------------------------------------
+    - General Styles
+----------------------------------------------------------------- */
+body {
+  background-color: #25394A;
+  color: #F0F0F6;
+}
+
+.input, .textarea, select,
+.custom-select {
+  background-color: #15232E;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+
+.input:focus, .textarea:focus, select:focus,
+.custom-select:focus {
+  background-color: #15232E;
+  border: 1px solid #0045FF;
+  color: #fff;
+}
+
+.input--white {
+  background-color: #1F2935;
+}
+.input--white:focus {
+  background-color: #1F2935;
+}
+
+.textarea--white {
+  background-color: #1F2935;
+}
+.textarea--white:focus {
+  background-color: #1F2935;
+}
+
+.form-group .font-icon {
+  color: #8697A8;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #5F6F81;
+}
+
+.form-control::-moz-placeholder {
+  color: #5F6F81;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #5F6F81;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #5F6F81;
+}
+
+.form-control::placeholder {
+  color: #5F6F81;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-text-fill-color: #1F2935 !important;
+}
+
+.custom-control-input:not(:disabled):active ~ .custom-control-label::before {
+  border-color: #8697A8;
+}
+
+.custom-control-label::before {
+  border: 1px solid #8697A8;
+}
+
+select,
+.custom-select {
+  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3e%3cpath fill='%23fff' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 0.1rem center/10px 16px;
+}
+select option,
+.custom-select option {
+  color: #fff;
+}
+
+.dropdown-menu {
+  background-color: #1F2935;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.25);
+  color: #F0F0F6;
+}
+.dropdown-menu::before {
+  border-bottom: 0.4rem solid #1F2935;
+}
+.dropdown.dropup .dropdown-menu::before {
+  border-top: 0.4rem solid #1F2935;
+}
+
+/* -----------------------------------------------------------------
+    - Typography
+----------------------------------------------------------------- */
+.title {
+  color: #fff;
+}
+
+.block-quote__author::before {
+  background-color: #F0F0F6;
+}
+
+/* -----------------------------------------------------------------
+    - Preloader
+----------------------------------------------------------------- */
+.preloader {
+  background-color: #1F2935;
+}
+
+/* -----------------------------------------------------------------
+    - Shared
+----------------------------------------------------------------- */
+.box {
+  background-color: #1F2935;
+  box-shadow: 0px 24px 40px rgba(0, 0, 0, 0.25);
+}
+.box::before {
+  box-shadow: 0px 24px 40px rgba(0, 0, 0, 0.15);
+}
+.box__second {
+  background-color: #1F2935;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.box-inner {
+  background-color: #15232E;
+}
+.box-inner::before, .box-inner::after {
+  background-color: #15232E;
+}
+.box-inner--white {
+  background-color: #1F2935;
+}
+.box-inner--white::before, .box-inner--white::after {
+  background-color: #1F2935;
+}
+
+.avatar--180 {
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.35)) drop-shadow(0 8px 32px rgba(0, 0, 0, 0.35));
+}
+.avatar--80 {
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0 8px 8px rgba(0, 0, 0, 0.4));
+}
+.avatar--60 {
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0 8px 8px rgba(0, 0, 0, 0.25));
+}
+
+.social__link {
+  color: #fff;
+}
+
+.badge--dark {
+  background-color: #15232E;
+}
+
+.tooltip-inner {
+  background-color: #1F2935;
+  box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.25), 0px 2px 16px rgba(0, 0, 0, 0.5);
+}
+
+.bs-tooltip-top .arrow::before,
+.bs-tooltip-auto[x-placement^="top"] .arrow::before {
+  border-top-color: #1F2935;
+}
+
+.bs-tooltip-right .arrow::before,
+.bs-tooltip-auto[x-placement^="right"] .arrow::before {
+  border-right-color: #1F2935;
+}
+
+.bs-tooltip-left .arrow::before,
+.bs-tooltip-auto[x-placement^="left"] .arrow::before {
+  border-left-color: #1F2935;
+}
+
+.bs-tooltip-bottom .arrow::before,
+.bs-tooltip-auto[x-placement^="bottom"] .arrow::before {
+  border-bottom-color: #1F2935;
+}
+
+/* -----------------------------------------------------------------
+    - Sidebar
+----------------------------------------------------------------- */
+.contacts-block__item a {
+  color: #fff;
+}
+
+/* -----------------------------------------------------------------
+    - Cases
+----------------------------------------------------------------- */
+.case-item__caption {
+  color: #F0F0F6;
+}
+
+/* -----------------------------------------------------------------
+    - Testimonials
+----------------------------------------------------------------- */
+.review-item {
+  background-color: #15232E;
+}
+.review-item__caption {
+  color: #F0F0F6;
+}
+
+.swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.1);
+}
+.swiper-pagination-bullet-active {
+  background: #0045FF;
+}
+
+/* -----------------------------------------------------------------
+    - Timeline
+----------------------------------------------------------------- */
+.timeline__item {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+.timeline__period {
+  color: #5F6F81;
+}
+
+/* -----------------------------------------------------------------
+    - Progress
+----------------------------------------------------------------- */
+.progress {
+  background-color: #15232E;
+}
+
+/* -----------------------------------------------------------------
+    - Portfolio
+----------------------------------------------------------------- */
+.gallery-grid__category {
+  color: #5F6F81;
+}
+
+@media only screen and (min-width: 769px) {
+  .filter__link {
+    color: #5F6F81;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .select {
+    background-color: #15232E;
+  }
+  .select ul {
+    background-color: #15232E;
+    box-shadow: 0 10px 60px rgba(0, 0, 0, 0.25);
+  }
+  .select ul li {
+    color: #fff;
+  }
+  .select ul li a {
+    color: #fff;
+  }
+}
+/* -----------------------------------------------------------------
+    - News
+----------------------------------------------------------------- */
+.news-item__date {
+  background-color: #1F2935;
+  color: #8697A8;
+}
+.news-item p {
+  color: #F0F0F6;
+}
+
+/* -----------------------------------------------------------------
+    - Single post
+----------------------------------------------------------------- */
+.header-post__date {
+  color: #F0F0F6;
+}
+
+.caption-post p {
+  color: #F0F0F6;
+}
+
+.footer-post::before {
+  background-color: #fff;
+}
+.footer-post__share {
+  color: #fff;
+}
+
+.comment-box__inner {
+  background-color: #1F2935;
+}
+.comment-box__body {
+  color: #F0F0F6;
+}
+.comment-box__details {
+  color: #fff;
+}
+
+.emoji-wrap .emoji:hover {
+  box-shadow: 0 0 0px 2px rgba(134, 151, 168, 0.3);
+}
+
+.nicescroll-cursors {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-color: transparent !important;
+}
+
+.social-auth .icon-facebook {
+  background-color: #3B5998;
+}
+.social-auth .icon-twitter {
+  background-color: #55ACEE;
+}
+.social-auth .icon-dribbble {
+  background-color: #F26798;
+}
+.social-auth .icon-behance {
+  background-color: #4176FA;
+}
+
+/* -----------------------------------------------------------------
+    - Other
+----------------------------------------------------------------- */
+.back-to-top {
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+}
+
+.medium-zoom-overlay {
+  background: #15232E !important;
+}
+
+/*# sourceMappingURL=style-dark.css.map */
