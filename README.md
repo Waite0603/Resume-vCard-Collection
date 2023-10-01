@@ -86,9 +86,26 @@
         </a>
     </td>
     </tr>
+    <!-- 第六行 -->
+    <tr>
+    <td valign="top" width="50%">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/11/">
+            <p align="center">11</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/11.jpg"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/12/">
+            <p align="center">12. Devfolio</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/12.jpg"/>
+        </a>
+    </td>
+    </tr>
+
 </table>
 
 > 代码来源: 
 > - 03: By Taurus Code, Forked from [https://www.youtube.com/watch?v=PWvasbJEuQI](https://www.youtube.com/watch?v=PWvasbJEuQI)
 > - 04: By [Sadee](https://github.com/codewithsadee), Forked from [https://github.com/codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)
 > - 05: By [ASouthernCat](https://github.com/ASouthernCat), Forked from [https://github.com/ASouthernCat/responsive-portfolio-website](https://github.com/ASouthernCat/responsive-portfolio-website)
+> - 12: By BootstrapMade.com, Forked from [https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/)
