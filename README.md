@@ -36,7 +36,7 @@
     </td>
     <td valign="top">
         <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/04/">
-            <p align="center">04. vcard-personal-portfolio-master</p>
+            <p align="center">04. vcard-personal-portfolio</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/04.jpg"/>
         </a>
     </td>
@@ -45,7 +45,7 @@
     <tr>
     <td valign="top" width="50%">
         <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/05/">
-            <p align="center">05. responsive-portfolio-website-master</p>
+            <p align="center">05. responsive-portfolio-website</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/05.jpg"/>
         </a>
     </td>
