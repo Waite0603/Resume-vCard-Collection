@@ -49,6 +49,12 @@
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/05.jpg"/>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/06/">
+            <p align="center">06</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/06.jpg"/>
+        </a>
+    </td>
     </tr>
 </table>
 
