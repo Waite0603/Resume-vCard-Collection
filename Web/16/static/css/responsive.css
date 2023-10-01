@@ -1,0 +1,609 @@
+﻿@media only screen and (min-width: 1600px) {
+    .resume-content-area {
+        max-width: 1515px;
+        margin-left: auto;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1599px) {
+    .resume-content-area {
+        padding: 0 70px;
+    }
+    .resume-inner-content .nav {
+        margin-right: 30px;
+    }
+    .social-style {
+        display: none;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1366px) {
+    .resume-content-area {
+        padding: 0 15px;
+    }
+    .map-inner .map {
+        height: 500px;
+    }
+    .main-slider {
+        height: 768px;
+    }
+    .slider-item span {
+        font-size: 25px;
+    }
+    .slider-item h2 {
+        font-size: 65px;
+        line-height: 1.22;
+    }
+    .slider-item p {
+        font-size: 18px;
+    }
+    .slider-active .slick-dots {
+        bottom: -150px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1366px) and (min-width: 1200px) {
+    .portfolio-item .overlay-content {
+        padding: 30px 10px;
+        width: calc(100% - 30px);
+        height: calc(100% - 30px);
+    }
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1270px;
+        padding: 0 50px;
+    }
+    .container-fluid {
+        max-width: 1680px;
+        padding: 0 50px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .service-item {
+        padding: 45px 26px 35px;
+    }
+    .circle-skill canvas {
+        width: 140px;
+    }
+    .blog-section .section-heading {
+        max-width: 350px;
+    }
+    .contact-widget {
+        padding: 50px 35px 45px;
+    }
+    .address-widget {
+        padding: 50px 35px 40px;
+    }
+    .testimonial-section:before {
+        height: 50px;
+    }
+    .testimonial-section .section-heading {
+        margin-bottom: 30px;
+    }
+    .testimonial-section .section-heading h2 {
+        margin-bottom: 20px;
+    }
+    .testimonial-item p {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .testimonial-item h6 {
+        font-size: 20px;
+    }
+    .author-images .slick-arrow {
+        bottom: 15px;
+    }
+    .slick-arrow.testimonial-next {
+        right: -70px;
+    }
+    .single-page-partner {
+        padding-bottom: 0;
+    }
+    .what-i-do h2 {
+        font-size: 53px;
+    }
+    .what-i-do p:last-child {
+        display: none;
+    }
+    .single-service,
+    .project-btn {
+        font-size: 18px;
+    }
+    .single-service .service-number,
+    .project-btn i {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        margin-right: 20px;
+    }
+ 
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .main-slider {
+        height: 700px;
+    }
+    .slider-wrap {
+        padding: 100px 0;
+    }
+    .slider-item h2 {
+        font-size: 60px;
+    }
+    .slider-active .slick-dots {
+        bottom: -100px;
+    }
+    .page-banner {
+        height: 450px;
+    }
+    .resume-top-image {
+        width: 100%;
+    }
+    .slick-arrow {
+        left: -230px;
+        width: 70px;
+        height: 70px;
+        line-height: 75px;
+    }
+    .logo-contact-widget:before {
+        content: none;
+    }
+    .partner-logo {
+        height: 170px;
+    }
+    .resume-inner-content {
+        display: block;
+    }
+    .resume-inner-content .nav {
+        margin-right: 0;
+        width: 100%;
+        flex-direction: row!important;
+    }
+    .resume-inner-content .nav-link {
+        width: 25%;
+        padding: 20px 0;
+        border-bottom: 0;
+        border-right: 3px solid var(--primary-color, #ffcc33);
+    }
+    .resume-inner-content .nav-link:last-child {
+        border-right: 0;
+    }
+    .testimonial-right-content {
+        margin-top: 0;
+    }
+}
+
+
+@media only screen and (max-width: 991px) {
+    .main-slider {
+        height: 650px;
+    }
+    .slider-item h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .slider-item .theme-btn.style-three {
+        min-width: 160px;
+        padding: 18px 30px 14px;
+    }
+    .slider-active .slick-dots {
+        bottom: -120px;
+    }
+    .page-banner {
+        height: 350px;
+    }
+    .page-banner .banner-inner {
+        padding-top: 60px;
+    }
+    .page-banner .banner-inner h1,
+    .intro-left h2,
+    .what-i-do h2,
+    .web-development-content h2 {
+        font-size: 50px;
+    }
+    .slider-right {
+        right: 10%;
+        width: 45vw;
+    }
+    .section-heading h2 {
+        font-size: 40px;
+    }
+    .service-top-contact h3,
+    .project-inner-content h3,
+    .how-to-complete-content h3,
+    .related-project-section h3 {
+        font-size: 35px;
+    }
+    .about-right-content {
+        max-width: none;
+        margin-top: 50px;
+    }
+    .theme-btn {
+        padding: 15px 25px;
+    }
+    .theme-btn.style-two span {
+        padding: 0 35px;
+    }
+    .theme-btn.style-two .flaticon-download {
+        width: 70px;
+        height: 70px;
+        font-size: 14px;
+        line-height: 70px;
+    }
+    .service-top-contact {
+        margin-left: 0;
+    }
+    .service-top-contact:before {
+        top: -20px;
+        left: -70px;
+        width: 150px;
+        height: 140px;
+    }
+    .resume-top-image {
+        height: 500px;
+        background-position: top;
+    }
+    .resume-top .section-heading {
+        margin-left: 15px;
+    }
+    .resume-content-area,
+    .resume-top .section-heading {
+        margin-top: 60px;
+    }
+    .resume-top,
+    .resume-inner-content {
+        margin-top: 0;
+    }
+    .inner-content-wrap .tab-inner-content {
+        max-width: 100%;
+    }
+    .tab-inner-image {
+        display: none;
+    }
+    .skills-section:before {
+        top: 15%;
+        left: auto;
+        right: 55px;
+    }
+    .skills-section:after {
+        left: 50%;
+        bottom: -80px;
+        width: 400px;
+        height: 400px;
+        transform: translateX(-50%);
+    }
+    .skills-section .download-cv {
+        margin-left: 0;
+    }
+    .skill-bars {
+        max-width: none;
+    }
+    .skills.design-skill {
+        margin-top: 50px;
+    }
+    .testimonial-section:before {
+        content: none;
+    }
+    .author-images {
+        display: none;
+    }
+    .testimonial-right-content {
+        margin-left: 0;
+        max-width: none;
+    }
+    .testimonials {
+        position: relative;
+        padding-bottom: 110px;
+    }
+    .testimonial-item:before {
+        font-size: 170px;
+        top: 70px;
+    }
+    .testimonial-item p {
+        margin-bottom: 30px;
+    }
+    .testimonials .slick-arrow {
+        left: 0;
+        bottom: 0;
+        z-index: 1;
+        transform: translate(0);
+    }
+    .slick-arrow.testi-next {
+        left: 90px;
+    }
+    .blog-section .section-heading {
+        max-width: none;
+    }
+    .blog-active {
+        margin-left: -15px;
+        padding-bottom: 120px;
+    }
+    .slick-arrow {
+        left: calc(50% - 45px);
+        transform: translateX(-50%);
+    }
+    .slick-arrow.blog-next {
+        left: calc(50% + 45px);
+    }
+    .contact-sidebar {
+        max-width: none;
+    }
+    .widget-title {
+        margin-bottom: 30px;
+    }
+    .post-widget {
+        margin-left: auto;
+    }
+    .copyright-wrap {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-menu {
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .intro-left {
+        margin-bottom: 40px;
+    }
+    .intro-left span {
+        margin-bottom: 25px;
+    }
+    .intro-right p {
+        margin-bottom: 30px;
+    }
+    .video-area {
+        height: 350px;
+    }
+    .my-services {
+        margin-top: 40px;
+    }
+    .related-services-section h4 {
+        margin-bottom: 22px;
+    }
+    .related-services-section .my-services {
+        margin-top: 30px;
+    }
+    .related-project-section h3 {
+        margin-bottom: 40px;
+    }
+    .map-inner .map {
+        height: 450px;
+    }
+    .error-content .theme-btn.style-three {
+        padding: 22px 30px 20px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) {
+    .container,
+    .container-fluid {
+        padding: 0 15px;
+    }
+    .main-slider {
+        height: 600px;
+    }
+    .slider-right {
+        display: none;
+    }
+    .slider-active .slick-dots {
+        bottom: -100px;
+    }
+    .about-left-video {
+        height: 460px;
+    }
+    .circle-skill canvas {
+        width: 150px;
+    }
+    .footer-logo {
+        margin-bottom: 40px;
+        max-width: 125px;
+    }
+    .post-widget {
+        margin-left: 0;
+    }
+    .menu-widget {
+        max-width: max-content;
+        margin-left: auto;
+    }
+    .information-item {
+        width: 50%;
+    }
+    .project-btn {
+        margin-bottom: 30px;
+    }
+    .project-btn:last-child {
+        margin-bottom: 0;
+    }
+    .map-inner .map {
+        height: 350px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 575px) {
+    .portfolio-item .overlay-content {
+        padding: 30px 10px;
+        width: calc(100% - 30px);
+        height: calc(100% - 30px);
+    }
+
+}
+
+
+@media only screen and (max-width: 575px) {
+    .fixed-header {
+        top: 0;
+    }
+    .circle-skill canvas {
+        width: 135px;
+    }
+    .circle-skill-percent b {
+        font-size: 35px;
+    }
+    .menu-widget {
+        margin-left: 0;
+    }
+    .footer-menu li {
+        padding: 0 20px;
+    }
+    .portfolio-item {
+        min-height: 290px;
+    }
+    .testimonial-item p {
+        font-size: 22px;
+    }
+    .testimonial-item h6 {
+        font-size: 18px;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px) {
+    .page-banner .banner-inner h1,
+    .intro-left h2,
+    .what-i-do h2,
+    .web-development-content h2,
+    .section-heading h2 {
+        font-size: 35px;
+    }
+    .service-top-contact h3,
+    .project-inner-content h3,
+    .how-to-complete-content h3,
+    .related-project-section h3 {
+        font-size: 30px;
+    }
+    .resume-top-image {
+        height: 400px;
+    }
+    .inner-content-wrap .tab-inner-content {
+        padding: 25px 20px 20px;
+    }
+    .tab-inner-content h5 {
+        font-size: 20px;
+    }
+    .resume-inner-content .nav-link {
+        width: 50%;
+        border-bottom: 3px solid var(--primary-color, #ffcc33);
+    }
+    .resume-inner-content .nav-link:nth-child(2) {
+        border-right: 0;
+    }
+    .resume-inner-content .nav-link:nth-child(3) {
+        border-bottom: 0;
+    }
+    .skills.design-skill h4 {
+        text-align: center;
+    }
+    .circle-skills {
+        justify-content: center;
+    }
+    .circle-skill {
+        margin-right: 20px;
+        margin-bottom: 65px;
+    }
+    .circle-skill.two {
+        margin-right: 0;
+    }
+    .circle-skill.three {
+        margin-bottom: 30px;
+    }
+    .footer-menu li {
+        padding: 0 8px;
+    }
+    .information-item {
+        width: 100%;
+    }
+    .error-content h3 {
+        font-size: 32px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 375px) {
+    .slider-item h2 {
+        font-size: 45px;
+    }
+    .about-left-video {
+        height: 360px;
+    }
+    .video-play {
+        width: 70px;
+        height: 70px;
+        font-size: 20px;
+        line-height: 80px;
+    }
+    .about-list li {
+        padding-left: 30px;
+    }
+    .intro-right p:last-child,
+    .web-development-content p:nth-child(3) {
+        font-size: 20px;
+        padding-left: 30px;
+    }
+    .service-item {
+        padding: 35px 15px 25px;
+    }
+    .service-top-contact h3,
+    .project-inner-content h3,
+    .how-to-complete-content h3,
+    .related-project-section h3 {
+        font-size: 28px;
+    }
+    .service-top-contact h5,
+    .service-content h5,
+    .overlay-content .title-area h5,
+    .blog-content h5,
+    .contact-widget .content-box p {
+        font-size: 20px;
+    }
+    .custom-input,
+    .custom-textarea {
+        padding: 15px 20px;
+    }
+    .contact-number h4,
+    .contact-number h4 a,
+    .skills h4,
+    .service-middle-content h4,
+    .related-services-section h4 {
+        font-size: 24px;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+    .single-service,
+    .project-btn {
+        font-size: 18px;
+    }
+    .single-service .service-number,
+    .project-btn i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        margin-right: 20px;
+    }
+    .project-btn.next-btn i {
+        margin-left: 20px;
+    }
+    .map-inner .map {
+        height: 300px;
+    }
+
+}

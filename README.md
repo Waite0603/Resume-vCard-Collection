@@ -124,6 +124,12 @@
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/15.jpg"/>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/16/">
+            <p align="center">16</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/16.jpg"/>
+        </a>
+    </td>
     </tr>
 
 </table>

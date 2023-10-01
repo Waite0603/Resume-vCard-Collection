@@ -1,0 +1,65 @@
+﻿@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+        url("../fonts/flaticon.woff") format("woff"),
+        url("../fonts/flaticon.woff2") format("woff2"),
+        url("../fonts/flaticon.eot") format("embedded-opentype"),
+        url("../fonts/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-clock:before {
+    content: "\f101";
+}
+.flaticon-data:before {
+    content: "\f102";
+}
+.flaticon-develop:before {
+    content: "\f103";
+}
+.flaticon-download:before {
+    content: "\f104";
+}
+.flaticon-left-arrow:before {
+    content: "\f105";
+}
+.flaticon-left-quote:before {
+    content: "\f106";
+}
+.flaticon-next:before {
+    content: "\f107";
+}
+.flaticon-placeholder-1:before {
+    content: "\f108";
+}
+.flaticon-placeholder:before {
+    content: "\f109";
+}
+.flaticon-play-button:before {
+    content: "\f10a";
+}
+.flaticon-portfolio:before {
+    content: "\f10b";
+}
+.flaticon-process:before {
+    content: "\f10c";
+}
+.flaticon-right-arrow-angle:before {
+    content: "\f10d";
+}
+.flaticon-telephone:before {
+    content: "\f10e";
+}
+.flaticon-user:before {
+    content: "\f10f";
+}
