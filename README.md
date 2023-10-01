@@ -131,6 +131,21 @@
         </a>
     </td>
     </tr>
+    <!-- 第九行 -->
+    <tr>
+    <td valign="top" width="50%">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/17/">
+            <p align="center">17</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/17.jpg"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/18/">
+            <p align="center">18</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/18.jpg"/>
+        </a>
+    </td>
+    </tr>
 
 </table>
 
