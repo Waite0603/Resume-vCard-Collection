@@ -56,6 +56,15 @@
         </a>
     </td>
     </tr>
+    <!-- 第四行 -->
+    <tr>
+    <td valign="top" width="50%">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/07/">
+            <p align="center">07</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/07.jpg"/>
+        </a>
+    </td>
+    </tr>
 </table>
 
 > 代码来源: 
