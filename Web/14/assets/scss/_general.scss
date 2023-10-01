@@ -1,0 +1,39 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: $font-default;
+  background-color: #040404;
+  color: #fff;
+  position: relative;
+  background: transparent;
+  &::before {
+    content: "";
+    position: fixed;
+    background: #040404 url("../img/bg.jpg") top right no-repeat;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    z-index: -1;
+    @media (min-width: 1024px) {
+      background-attachment: fixed;
+    }
+  }
+}
+
+
+a {
+  color: $primary;
+  text-decoration: none;
+}
+
+a:hover  {
+  color: lighten($primary, 10);
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-primary;
+}

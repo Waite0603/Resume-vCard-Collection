@@ -101,6 +101,21 @@
         </a>
     </td>
     </tr>
+    <!-- 第七行 -->
+    <tr>
+    <td valign="top" width="50%">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/13/">
+            <p align="center">13</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/13.jpg"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/14/">
+            <p align="center">14. Personal</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/14.jpg"/>
+        </a>
+    </td>
+    </tr>
 
 </table>
 
@@ -108,4 +123,5 @@
 > - 03: By Taurus Code, Forked from [https://www.youtube.com/watch?v=PWvasbJEuQI](https://www.youtube.com/watch?v=PWvasbJEuQI)
 > - 04: By [Sadee](https://github.com/codewithsadee), Forked from [https://github.com/codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)
 > - 05: By [ASouthernCat](https://github.com/ASouthernCat), Forked from [https://github.com/ASouthernCat/responsive-portfolio-website](https://github.com/ASouthernCat/responsive-portfolio-website)
-> - 12: By BootstrapMade.com, Forked from [https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/)
+> - 12: By [BootstrapMade.com](https://bootstrapmade.com/), Forked from [https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/)
+> - 14: By [BootstrapMade.com](https://bootstrapmade.com/), Forked from [https://bootstrapmade.com/personal-free-resume-bootstrap-template/](https://bootstrapmade.com/personal-free-resume-bootstrap-template/)

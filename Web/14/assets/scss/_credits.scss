@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------
+# Credits
+--------------------------------------------------------------*/
+.credits {
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  padding: 15px;
+  text-align: right;
+  font-size: 13px;
+  color: #fff;
+  z-index: 999999;
+
+  @media (max-width: 992px) {
+    text-align: center;
+    padding: 10px;
+    background: rgba(#000, .8);
+  }
+  a {
+    color: $primary;
+    transition: 0.3s;
+    &:hover {
+      color: $white;
+    }
+  }
+}
