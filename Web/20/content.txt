@@ -1,0 +1,112 @@
+/* Header
+---------------------------------------------------------------------------
+nav__brand
+-Nathan
+
+nav__links
+- Home
+- About
+- Services
+- Portfolio
+- Let's Talk
+
+/* Home
+---------------------------------------------------------------------------
+
+home__subtitle
+- Welcome!
+
+home__title
+- I'm Nathan <br>
+UI/UX Designer.
+
+home__description
+I'm a experienced UI/UX Designer with 10 years of experience 
+building amazing designs and user experiences, based in New York.
+
+
+/* About
+---------------------------------------------------------------------------
+
+section__description
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Expedita, nemo! Fuga aspernatur eum aliquam est unde
+voluptatum aut sapiente.
+
+stats
+- 10
+- Years Experience
+
+- 38+ 
+- Projects Completed
+
+- 25+
+- Happy Clients
+
+about__title
+UI/UX Designer with 10 years of Experience
+
+about__description
+I’m a Professional UI/UX designer. Specializing in Landing Pages, Website, App Design and Product Design, with 8 year experience creating innovative designs for a variety of clients using creative and user-friendly designs.
+
+/* Services
+---------------------------------------------------------------------------
+
+- Mobile UI/UX <br> Design
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Expedita, nemo!
+
+- Product <br> Design
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Expedita, nemo!
+
+- Website <br> Design
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Expedita, nemo!
+
+/* portfolio
+---------------------------------------------------------------------------
+
+UI/UX Design
+Write the name of the completed project here.
+
+Product Design
+Write the name of the completed project here.
+
+Website Design
+Write the name of the completed project here.
+
+/* Project
+---------------------------------------------------------------------------
+Have a project in mind?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Labore tempora necessitatibus explicabo.
+
+/* Testimonials
+---------------------------------------------------------------------------
+Martin's great attention to detail and creativity are things that made me 
+love working with him.
+
+Emma Anderson
+Marketing Officer
+
+------------------------------------------------------
+We worked with Martin designing our company website, and we are
+super satisfied with the results. His great communication skills is what 
+allowed us to work with him efficiently.
+
+Matt Goldman
+Entreprenuer
+
+------------------------------------------------------
+Choosing Martin to design our App was a great decision. 
+He kept everything Simple and Beautiful.
+
+Andrew Smith
+Creative Director
+
+/* Contact
+---------------------------------------------------------------------------
+Phone number: (641) 834-0207
+Email: nathan@support.com
+Adress: Bridge Street, NY - USA

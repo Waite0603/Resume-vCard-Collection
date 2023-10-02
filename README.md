@@ -146,6 +146,21 @@
         </a>
     </td>
     </tr>
+    <!-- 第十行 -->
+    <tr>
+    <td valign="top" width="50%">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/19/">
+            <p align="center">19</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/19.jpg"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/20/">
+            <p align="center">20</p>
+            <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/20.jpg"/>
+        </a>
+    </td>
+    </tr>
 
 </table>
 
@@ -155,3 +170,5 @@
 > - 05: By [ASouthernCat](https://github.com/ASouthernCat), Forked from [https://github.com/ASouthernCat/responsive-portfolio-website](https://github.com/ASouthernCat/responsive-portfolio-website)
 > - 12: By [BootstrapMade.com](https://bootstrapmade.com/), Forked from [https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/)
 > - 14: By [BootstrapMade.com](https://bootstrapmade.com/), Forked from [https://bootstrapmade.com/personal-free-resume-bootstrap-template/](https://bootstrapmade.com/personal-free-resume-bootstrap-template/)
+> - 19: By [Designedbyluis](https://www.youtube.com/@designedbyluis), Forked from [https://www.youtube.com/watch?v=ci15yXJ8fCE](https://www.youtube.com/watch?v=ci15yXJ8fCE)
+> - 20: By [Designedbyluis](https://www.youtube.com/@designedbyluis), Forked from [https://www.youtube.com/watch?v=TytkIbNQ634](https://www.youtube.com/watch?v=TytkIbNQ634)
