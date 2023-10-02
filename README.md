@@ -170,7 +170,7 @@
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/22/">
             <p align="center">22</p>
             <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/22.jpg"/>
         </a>
