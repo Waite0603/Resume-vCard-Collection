@@ -1,0 +1,151 @@
+/* Navigation
+---------------------------------------------*/
+
+FoodLover
+
+- Home
+- Features
+- About Us
+- Menu
+- Blog 
+
+/* Sidebar
+---------------------------------------------*/
+
+Contact 
+
+Lorem ipsum dolor sit amet consectetur. 
+Varius nisl volutpat ultricies pharetra suspendisse. 
+Sit commodo arcu diam lectus.
+
+Address: London, 5102 West College
+Open Hours: 8:00 AM - 9:00 PM
+Call Us: +(528) 987-025
+Mail Us: info@example.com
+Follow Us: facebook - instagram - twitter - youtube
+
+/* Home
+---------------------------------------------*/
+
+A taste that will make you feel emotions!
+
+Lorem ipsum dolor sit amet consectetur. 
+Varius nisl volutpat ultricies pharetra suspendisse. 
+Sit commodo arcu diam lectus.
+
+Explore Our Menu
+
+
+/* Feature
+---------------------------------------------*/
+
+Features
+Why Choose Us?
+
+Extensive Menu
+Live wanted yet best journey now options own explore silently. 
+Eod solutions savvy stand
+
+Fast Delivery
+Live wanted yet best journey now options own explore silently. 
+Eod solutions savvy stand
+
+High Quality
+Live wanted yet best journey now options own explore silently. 
+Eod solutions savvy stand
+
+/* About
+---------------------------------------------*/
+
+Welcome to FoodLover
+
+We Cook Tradition and Family Recipes
+
+Melted lovers bell chicken sauce white ipsum tossed Chicago sauce.
+Lasagna anchovies anchovies onions crust black.
+Marinara hand ipsum cheese pineapple. Stuffed ririb Hawaiian pie buffalo.
+<br><br>
+Deep marinara pineapple deep lovers party stblack bbq bell. Onions lovers mushrooms Bianca
+lovers.
+
+Discover Our Story
+
+/* Menu
+---------------------------------------------*/
+
+Our Menu
+Today Special Menu
+
+Breakfast | Lunch | Dinner | Dessert
+
+Breakfast
+ - Banana Sandwich
+ - Chicken Burguer
+ - Sliced Egg Sandwich
+
+Lunch
+- Stuffed Eggplants with Salad
+- Cauliflower and Hazelnut Salad
+- Pesto Pasta with Salad
+
+Dinner
+- Spaghetti with meat sauce
+- Salmon and Zucchini
+- Grilled Meat with Vegetables
+
+Dessert
+- Oreo Ice Cream
+- Raspeberry Cake
+- Chocolate Cake
+
+/* Testimonials
+---------------------------------------------*/
+
+Feedback from
+Happy Clients
+
+Sapien id leo tincidunt scelerisque aliquam semper dui eu non. Sem at aliquet nullam faucibus platea amet fringilla velit. Urna bibendum nulla nisl quam.
+
+Laura Burton | Jonathan Gray | Alice Watkins
+
+/* Blog
+---------------------------------------------*/
+
+Our Blog
+Latest Posts
+
+
+30 Healthy breakfast ideias for 2023 
+Read More
+
+Top 10 favorite recipes from 2022
+Read More
+
+How to make hard boiled eggs
+Read More
+
+
+
+/* Footer
+---------------------------------------------*/
+
+FoodLover
+
+Repellendus animi, et quo blanditiis in illo, nisi iusto qui eligendi sunt beatae numquam.
+
+Our Menu
+- Breakfast
+- Lunch
+- Dinner
+- Desserts
+
+Quick Links
+- Menu
+- About Us
+- Testimonials
+- Blog
+
+Support 
+- Contact 
+- Terms Of Use 
+- Privacy Policy
