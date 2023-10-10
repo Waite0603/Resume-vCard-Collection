@@ -200,6 +200,7 @@
         <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/25.jpg" />
       </a>
     </td>
+  </tr>
 
 </table>
 
