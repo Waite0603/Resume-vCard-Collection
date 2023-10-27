@@ -215,6 +215,20 @@
 <!-- jQuery local fallback -->
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
+<script>
+  /***************** Work Carousel ******************/
+	$('.work__navigation li').click(function() {
+    var $this = $(this);
+
+    $this.siblings().removeClass('work__navigation-el--is-active');
+    $this.addClass('work__navigation-el--is-active');
+
+		// 查看work__navigation 下面的li的索引值
+		var index = $('.work__navigation li').index(this);
+    $('.work__list').children().removeClass('work__list-el--is-active');
+    $('.work__list').children().eq(index).addClass('work__list-el--is-active');
+  });
+</script>
 
 <style>
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
