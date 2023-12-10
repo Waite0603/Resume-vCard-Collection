@@ -6,7 +6,7 @@
 >
 > 1. 所有资源仅供学习与参考，禁止任何形式的商业用途，包括但不仅限于售卖/打赏/获利，不得使用本代码进行任何形式的牟利/贩卖/传播, 否则产生的一切后果将由您自己承担！
 > 2. 本项目代码来源于互联网, 如果侵犯了您的权益, 请联系我删除! 如果本站部分内容侵犯您的权益，请您告知，我会立即处理。
-> 3. 本人会在页面底部注明来源, 但是由于本人能力有限, 无法保证每个页面都能找到原作者, 欢迎各位查错补缺! 
+> 3. 本人会在页面底部注明来源, 但是由于本人能力有限, 无法保证每个页面都能找到原作者, 欢迎各位查错补缺!
 > 4. 欢迎大家提供更多的简历模板, 请提交 issue/ pr 或者联系我!
 > 5. 如果您觉得本项目对您有帮助, 请给我一个 star, 谢谢!
 > 6. 最后, 希望大家天天开心!
@@ -198,6 +198,42 @@
       <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/25/">
         <p align="center">25</p>
         <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/25.jpg" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/26/">
+        <p align="center">26</p>
+        <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/26.jpg" />
+      </a>
+    </td>
+  </tr>
+  <!-- 第十四行 -->
+  <tr>
+    <td valign="top" width="50%">
+      <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/27/">
+        <p align="center">27</p>
+        <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/27.jpg" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/28/">
+        <p align="center">28</p>
+        <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/28.jpg" />
+      </a>
+    </td>
+  </tr>
+  <!-- 第十五行 -->
+  <tr>
+    <td valign="top" width="50%">
+      <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/29/">
+        <p align="center">29</p>
+        <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/29.jpg" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a target="_blank" href="https://waite0603.github.io/Resume-vCard-Collection/Web/30/">
+        <p align="center">30</p>
+        <img src="https://cdn.jsdelivr.net/gh/waite0603/Resume-vCard-Collection/assets/img/web/30.jpg" />
       </a>
     </td>
   </tr>

@@ -1,0 +1,6 @@
+.sf-menu li,
+.dropcap,
+.list-1 li a,
+.buttons .button,
+.social_list li a{behavior: url(js/PIE.htc); position:relative;}
+.sf-menu ul,.sf-menu ul ul,.btn_down,.btn_up{behavior: url(js/PIE.htc);}

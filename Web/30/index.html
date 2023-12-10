@@ -1,0 +1,319 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Home</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+<link type="text/css" href="css/humanity/jquery-ui-1.8.18.custom.css" rel="stylesheet" />	
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="js/superfish.js"></script>
+<script src="js/jquery-ui-1.8.18.custom.min.js"></script>
+<script src="js/jquery.scrollorama.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/tms-0.4.1.js"></script>
+<script src="js/uCarousel.js"></script>
+<script src="js/forms.js"></script>
+<script>
+	$(document).ready(function() {
+		$(".sf-menu li a,footer h1 a,.btn_down,.btn_up").click(function () { 
+		  elementClick = $(this).attr("href");
+		  destination = $(elementClick).offset().top;
+		  if($.browser.safari){
+			$('body').animate( { scrollTop: destination }, 2000, 'easeInQuad' );
+		  }else{
+			$('html').animate( { scrollTop: destination }, 2000, 'easeInQuad' );
+		  }
+		  return false;
+		});
+		$('.gallery')._TMS({
+			show:1,
+			pauseOnHover:true,
+			prevBu:'.prev',
+			nextBu:'.next',
+			playBu:false,
+			duration:1000,
+			preset:'fadeFromCenter',
+			pagination:$('.img-pags').uCarousel({show:3,shift:1,pageStep:1}),
+			pagNums:false,
+			slideshow:false,
+			numStatus:false,
+			banners:'fade',// fromLeft, fromRight, fromTop, fromBottom
+			waitBannerAnimation:false
+		})	
+		$('#contact-form').forms({
+			ownerEmail:'#'
+		})
+	});
+</script>
+<!--[if lt IE 9]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+       <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+    </a>
+  </div>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="js/html5.js"></script>
+	<link rel="stylesheet" href="css/ie.css"> 
+<![endif]-->
+<!-- Shared on MafiaShare.net  --><!-- Shared on MafiaShare.net  --></head>
+<body>
+<div class="clouds">
+	<div class="scrollblock">
+		<div class="birds_1"></div>
+		<div class="birds_2"></div>
+		<div class="birds_3"></div>
+		<div class="birds_4"></div>
+		<div class="birds_5"></div>
+		<div class="birds_6"></div>
+		<div class="balloon_1"></div>
+		<div class="balloon_2"></div>
+		<div class="balloon_3"></div>
+		<div class="balloon_4"></div>
+		<div class="balloon_5"></div>
+		<div class="people1"></div>
+		<div class="cloud1"></div>
+		<div class="cloud2"></div>
+		<div class="cloud3"></div>
+		<div class="cloud4"></div>
+		<div class="cloud5"></div>
+	</div>
+	<div class="city-bg">
+	<section>
+		<div id="page1">
+			<header>
+				<h1><a href="index.html">theSky</a></h1>
+				<nav class="main-menu">
+					<ul class="sf-menu">
+						<li><a href="#page2"><img src="images/menu1.png" alt=""></a></li>
+						<li><a href="#page3"><img src="images/menu2.png" alt=""></a><ul>
+								<li><a href="#">design</a><span></span></li>
+								<li><a href="#">coding</a><ul>
+										<li><a href="#">lorem</a></li>
+										<li><a href="#">sit amet</a></li>
+										<li class="last"><a href="#">dolor</a></li>
+									</ul>
+								</li>
+								<li class="last"><a href="#">hosting</a></li>
+							</ul>
+						</li>
+						<li class="menu3"><a href="#page4"><img src="images/menu3.png" alt=""></a></li>
+						<li class="last"><a href="#page5"><img src="images/menu4.png" alt=""></a></li>
+					</ul>
+					<div class="clear"></div>
+				</nav>
+			</header>
+			<div class="title">we make</div>
+			<div class="title2">awesome<span>design</span></div>
+			<p class="text1">Aenean nonummy hendrerit mauris. Phasellus porta. Fusce<br> suscipit varius mi. Cum sociis natoque penatibus et.</p>
+			<a href="#page2" class="btn_down"></a>
+		</div>
+		<div id="page2">
+			<a href="#page1" class="btn_up"></a>
+			<h2><span>the Founders</span><img src="images/star.png" alt=""></h2>
+			<div class=" container_12">
+				<div class="wrapper">
+					<div class="grid_4">
+						<div class="box1">
+							<img src="images/2page_img1.png" alt="">
+							<h3>Lisa Priston</h3>
+							<h4>Director, Designer</h4>
+							<p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis.</p>
+						</div>
+					</div>
+					<div class="grid_4">
+						<div class="box1">
+							<img src="images/2page_img2.png" alt="">
+							<h3>Rick Oswald</h3>
+							<h4>programmer, coder</h4>
+							<p>Aenean nonummy hendrerit mauris. 
+	Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis.
+	dis parturient montes, nascetur.</p>
+						</div>
+					</div>
+					<div class="grid_4">
+						<div class="box1">
+							<img src="images/2page_img3.png" alt="">
+							<h3>Luke Smith</h3>
+							<h4>Copywriter, developer</h4>
+							<p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. </p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="#page3" class="btn_down"></a>
+		</div>
+		<div id="page3">
+			<a href="#page2" class="btn_up"></a>
+			<h2><span>Our Services</span><img src="images/star.png" alt=""></h2>
+			<h3>Our fertile imagination working<span>for you</span></h3>
+			<div class="container_12">
+				<div class="wrapper">
+					<div class="grid_4">
+						<div class="box2">
+							<div class="dropcap"><img src="images/3page_img1.png" alt=""><span>Design</span></div>
+							<ul class="list-1">
+								<li><a href="#">Website Design</a></li>
+								<li><a href="#">User Interface Design</a></li>
+								<li><a href="#">Logo Design</a></li>
+								<li><a href="#">Email Design</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="grid_4">
+						<div class="box2">
+							<div class="dropcap"><img src="images/3page_img2.png" alt=""><span>Coding</span></div>
+							<ul class="list-1">
+								<li><a href="#">HTML5</a></li>
+								<li><a href="#">CSS3</a></li>
+								<li><a href="#">jQuery</a></li>
+								<li><a href="#">WordPress</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="grid_4">
+						<div class="box2">
+							<div class="dropcap"><img src="images/3page_img3.png" alt=""><span>Hosting</span></div>
+							<ul class="list-1">
+								<li><a href="#">Domain registration</a></li>
+								<li><a href="#">Website hosting</a></li>
+								<li><a href="#">SQL databases</a></li>
+								<li><a href="#">Personal email addresses</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="#page4" class="btn_down"></a>
+		</div>
+		<div id="page4">
+			<a href="#page3" class="btn_up"></a>
+			<h2><span>Our Gallery</span><img src="images/star.png" alt=""></h2>
+			<div id="gallery">
+			<div id="slide">
+				<div class="gallery">
+					<ul class="items">
+						<li><img src="images/gallery2.jpg" alt="" /><div class="banner"><span>Gway</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery1.jpg" alt="" /><div class="banner"><span>Anthony&amp;Laura</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery4.jpg" alt="" /><div class="banner"><span>Birdies</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery3.jpg" alt="" /><div class="banner"><span>Holy Way</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery2.jpg" alt="" /><div class="banner"><span>Gway</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery1.jpg" alt="" /><div class="banner"><span>Anthony&amp;Laura</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery4.jpg" alt="" /><div class="banner"><span>Birdies</span><a href="#">www.demolink.org</a></div></li>
+						<li><img src="images/gallery3.jpg" alt="" /><div class="banner"><span>Holy Way</span><a href="#">www.demolink.org</a></div></li>
+					</ul>
+				</div>
+				<!-- slider end -->	
+			</div>		
+			<div class="pag">
+				<div class="img-pags">
+				  <ul>
+					<li><a href="#"><img src="images/gallery1-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery4-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery3-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery2-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery1-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery4-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery3-small.png" alt="" /></a></li>
+					<li><a href="#"><img src="images/gallery2-small.png" alt="" /></a></li>
+				  </ul>  
+				</div>
+				<a href="#" class="prev" data-type="Prevpage"></a><a href="#" class="next" data-type="Nextpage"></a>								
+			</div>
+			</div>
+			<a href="#page5" class="btn_down"></a>
+		</div>
+		<div id="bg-page5">
+			<div id="page5">
+				<a href="#page4" class="btn_up"></a>
+				<h2><span>Contact Info</span><img src="images/star.png" alt=""></h2>
+				<div class="wrapper">
+					<div class="fleft">
+						<!---<div class="map"><iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe></div>--->
+						<address class="contacts">
+							<strong>The Company Name Inc.</strong><br>
+							8901 Marmora Road, Glasgow, D04 89GR.<br>
+							Telephone: +1 959 603 6035<br>
+							FAX:  +1 504 889 9898<br>
+							E-mail: <a href="#">mail@demolink.org</a>
+						</address>
+					</div>
+					<div class="contactform">
+						<form id="contact-form">
+							<div class="success"> Contact form submitted! <strong>We will be in touch soon.</strong></div>
+							<fieldset>
+								<div class="wrapper">
+									<div class="fleft">
+										<label class="name">
+											<input type="text" value="First Name">
+											<span class="error">*This is not a valid name.</span>
+											<span class="empty">*This field is required.</span>
+											<span class="clear"></span>
+										</label>
+									</div>
+									<div class="fleft">
+										<label class="name">
+											<input type="text" value="Last Name">
+											<span class="error">*This is not a valid name.</span>
+											<span class="empty">*This field is required.</span>
+											<span class="clear"></span>
+										</label>
+									</div>
+								</div>
+								<label class="email">
+									<input type="text" value="E-mail">
+									<span class="error">*This is not a valid email address.</span>
+									<span class="empty">*This field is required.</span>
+									<span class="clear"></span>
+								</label>
+								<label class="name">
+									<input type="text" value="object">
+									<span class="error">*This is not a valid object name.</span>
+									<span class="empty">*This field is required.</span>
+									<span class="clear"></span>
+								</label>
+								<label class="message">
+									<textarea>Message</textarea>
+									<span class="error">*The message is too short.</span>
+									<span class="empty">*This field is required.</span>
+									<span class="clear"></span>
+								</label>
+								<div class="buttons"><span><a class="button" data-type="submit">Send Message</a></span><span><a data-type="reset">Clear form</a></span></div>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+				<div class="social_pad">
+					<ul class="social_list">
+						<li><a href="#"><img src="images/icon1.png" alt=""></a></li>
+						<li><a href="#"><img src="images/icon2.png" alt=""></a></li>
+						<li><a href="#"><img src="images/icon3.png" alt=""></a></li>
+						<li><a href="#"><img src="images/icon4.png" alt=""></a></li>
+					</ul>
+				</div>
+				<footer>Copyright &copy; 2021.Company name All rights reserved.</footer>
+			</div>
+		</div>
+	</section></div>
+</div>
+<div id="privacy" title="Privacy Policy">
+	<h2><span>Privacy Policy</span><img src="images/star.png" alt=""></h2>
+	<p class="color1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+	<p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.</p>
+
+<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis.</p>
+
+<p>Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus.</p>
+<p><a href="#">privacy@demolink.org</a></p>
+</div>
+<!-- Coded by Ariadna -->
+<style>
+.copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
+</style>
+<div class="copyrights">
+	Collect from <a href="http://www.cssmoban.com/"  title="网站模板">模板之家</a>
+	<a href="https://www.chazidian.com/"  title="查字典">查字典</a>
+</div>
+</body>
+</html>
+
