@@ -1,0 +1,237 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. DEFAULT VERSION (Check style.css and colors.css)
+    2. HOSTING VERSION
+    3. SEO VERSION
+    4. WATCH VERSION
+    5. APP VERSION
+    6. CLINIC VERSION
+    7. REAL ESTATE VERSION
+    8. POLITICS VERSION
+    9. BARBER VERSION
+    10. BUILDING VERSION
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+    1. POLITICS VERSION
+-------------------------------------------------------------------*/
+
+body.politics_version .participate-wrap small,
+body.politics_version .message-box h4,
+body.politics_version .customwidget li i,
+body.politics_version .navbar-nav span {
+    color: #cd1713 !important;
+}
+
+body.politics_version .lead strong,
+body.politics_version .icon-wrapper:hover a,
+body.politics_version a:hover,
+body.politics_version a:focus {
+    color: #234666
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.politics_version .icon_wrap:hover,
+body.politics_version .nav-pills > li.active > a,
+body.politics_version .nav-pills > li.active > a:focus,
+body.politics_version .nav-pills > li.active > a:hover,
+body.politics_version .icon-wrapper:hover i,
+body.politics_version .grd1 {
+    color: #ffffff;
+    background: #f44336;    
+}
+
+body.politics_version .icon_wrap,
+body.politics_version .dmtop:hover,
+body.politics_version .cac:hover,
+body.politics_version .features-right li:hover i,
+body.politics_version .features-left li:hover i,
+body.politics_version .nav-pills > li:hover > a,
+body.politics_version .nav-pills > li:focus > a,
+body.politics_version .nav-pills > li.active > a,
+body.politics_version .nav-pills > li.active > a:focus,
+body.politics_version .nav-pills > li.active > a:hover,
+body.politics_version .divider-bar,
+body.politics_version .owl-next:hover i,
+body.politics_version .owl-prev:hover i,
+body.politics_version .icon-wrapper:hover i:hover,
+body.politics_version .grd1:hover,
+body.politics_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #076799;
+}
+
+body.politics_version .effect-1:after {
+    box-shadow: 0 0 0 2px #076799;
+    border-radius: 0 !important;
+}
+
+body.politics_version .app_iphone_01 {
+    width: 700px;
+    position: absolute;
+    left: 10%;
+    z-index: 2;
+    bottom: -12%;
+}
+
+body.politics_version .first-section {
+    padding: 15em 0 11em;
+}
+
+body.politics_version .first-section h2 {
+    padding-top: 30px;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+body.politics_version .first-section .btn {
+    border: 0 !important;
+}
+
+body.politics_version .first-section i {
+    vertical-align: middle;
+}
+
+body.politics_version .header_style_01 {
+    top: 43px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+body.politics_version .header_style_01 .navbar-default .navbar-nav > li > a {
+    text-transform: uppercase;
+}
+
+body.politics_version .topbar {
+    display: block;
+    padding: 8px 20px;
+    position: relative;
+    background-color: #cd1713;
+    color: #ffffff;
+}
+
+body.politics_version .topbar p {
+    padding: 0;
+    margin: 0;
+}
+
+body.politics_version .issuse-wrap2 {
+    display: block;
+    position: relative;
+}
+
+body.politics_version .issuse-wrap {
+    padding: 20px 0;
+    display: block;
+    position: relative;
+    border-bottom: 1px dashed #f44336;
+}
+
+body.politics_version .issuse-wrap p,
+body.politics_version .issuse-wrap p {
+    margin-bottom: 0;
+}
+
+body.politics_version .issuse-wrap img {
+    max-width: 100px;
+    margin: 0 30px 0 0;
+}
+
+body.politics_version .lastchild {
+    border: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+body.politics_version .issuse-wrap2 h4 {
+    font-size: 24px;
+    font-weight: 600;
+    padding: 20px 0 20px;
+    text-transform: capitalize;
+}
+
+body.politics_version .issuse-wrap h4 {
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-transform: capitalize;
+}
+
+body.politics_version .section-title {}
+
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {
+    font-weight: bold;
+}
+
+body.politics_version .participate-wrap {
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+body.politics_version .participate-wrap small {
+    font-size: 18px;
+    display: block;
+    padding-bottom: 20px;
+    position: relative;
+    font-weight: bold;
+}
+
+body.politics_version .participate-wrap h4 {
+    padding-bottom: 10px;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+body.politics_version .fullmagnifier {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: 0;
+}
+
+body.politics_version #block h1 {
+    position: absolute;
+    color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 50%;
+    text-align: center;
+    margin: -20px auto;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+body.politics_version .contact_form {
+    background-color: #010101;
+    border-color: #151515;
+}
+
+body.politics_version .contact_form .form-control {
+    background-color: #1a1a1a;
+    border: 1px solid #1a1a1a;
+}
+
+body.politics_version .btn {
+    border: 0 !important;
+    border-radius: 3px;
+}
+
+body.politics_version .copyrights {
+    background-color: #010101;
+}
+

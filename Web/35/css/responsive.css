@@ -1,0 +1,202 @@
+/******************************************
+    Version: 1.0
+/****************************************** */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.navbar-dark .navbar-nav .nav-link{
+		font-size: 13px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	#mainNav {
+		background-color: #ffffff;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(41,41,41);
+		border-color: rgba(41,41,41);
+		border-radius: 0;
+		font-weight: 200;
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.message-box h2{
+		font-size: 28px;
+	}
+	.message-box ul li b{
+		font-size: 16px;
+	}
+	.message-box ul li a{
+		font-size: 16px;
+		width: 35px;
+	}
+	.ser-icon{
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.ser-icon i{
+		font-size: 38px;
+	}
+}
+@media (max-width: 767px) {
+	#mainNav {
+		background-color: #ffffff;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(41,41,41);
+		border-color: rgba(41,41,41);
+		border-radius: 0;
+		font-weight: 200;
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.ct-header h1.big{
+		font-size: 28px;
+	}
+	.ct-header p{
+		font-size: 16px;
+	}
+	.snip1401 h3{
+		font-size: 16px;
+	}
+	.snip1401 p{
+		font-size: 18px;
+	}
+	.snip1401 figcaption{
+		padding: 30px 0 30px 60px;
+	}
+}
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+	#mainNav {
+		background-color: #ffffff;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(41,41,41);
+		border-color: rgba(41,41,41);
+		border-radius: 0;
+		font-weight: 200;
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.ct-header h1.big{
+		font-size: 28px;
+	}
+	.ct-header p{
+		font-size: 16px;
+	}
+	.snip1401 h3{
+		font-size: 16px;
+	}
+	
+}
