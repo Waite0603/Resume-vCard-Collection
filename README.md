@@ -9,7 +9,20 @@
 > 3. 本人会在页面底部注明来源, 但是由于本人能力有限, 无法保证每个页面都能找到原作者, 欢迎各位查错补缺!
 > 4. 欢迎大家提供更多的简历模板, 请提交 issue/ pr 或者联系我!
 > 5. 如果您觉得本项目对您有帮助, 请给我一个 star, 谢谢!
-> 6. 最后, 希望大家天天开心!
+
+> 如果你对于以下的模板不满意，你可以去以下地方寻找其他模板。
+
+
+| 网站名称        | 网址                                      | 描述                                                                 |
+|-----------------|-------------------------------------------|----------------------------------------------------------------------|
+| BootstrapMade   | [https://bootstrapmade.com/](https://bootstrapmade.com/) | 提供基于Bootstrap的免费HTML模板，适合企业、个人博客、作品集等。       |
+| Start Bootstrap | [https://startbootstrap.com/](https://startbootstrap.com/) | 提供大量免费的Bootstrap模板和主题，适合开发者和设计师使用。           |
+| ThemeWagon      | [https://themewagon.com/](https://themewagon.com/) | 提供免费和付费的Bootstrap模板，涵盖多种行业和用途。                   |
+| Templatemo      | [https://templatemo.com/](https://templatemo.com/) | 提供免费的HTML和CSS模板，适合快速搭建网站。                           |
+| HTML5 UP        | [https://html5up.net/](https://html5up.net/) | 提供响应式HTML5和CSS3模板，完全免费且开源。                           |
+| Free CSS        | [https://www.free-css.com/](https://www.free-css.com/) | 提供大量的免费CSS模板和网站模板，适合各种用途。                       |
+| Colorlib        | [https://colorlib.com/](https://colorlib.com/) | 提供高质量的免费WordPress和HTML模板，适合博客、企业网站等。           |
+| W3Layouts       | [https://w3layouts.com/](https://w3layouts.com/) | 提供免费的HTML、CSS和Bootstrap模板，适合各种类型的网站。               |
 
 <table align="center">
   <!-- 第一行 -->
